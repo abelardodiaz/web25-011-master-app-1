@@ -15,6 +15,7 @@ error.log
 
 # Carpetas de dependencias (ejemplo: Python, Node.js)
 web25011/
+privada/
 node_modules/
 venv/
 __pycache__/
